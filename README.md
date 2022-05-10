@@ -1,1 +1,1 @@
-# Cse428-project-code
+Computer vision project implemented with OpenCV
